@@ -54,7 +54,7 @@ The dataset contains historical marketplace data. Raw CSV files are not included
 Dataset link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## Power BI Dashboard
-The Power BI dashboard is available under the repository's **Releases** section.
+[Download Power BI Dashboard (.pbix)](https://github.com/ashkabudhraja/order-fulfilment-delay-analysis/releases/tag/v1.0.0)
 
 Download: `Order_Fulfilment_Dashboard.pbix`
 
